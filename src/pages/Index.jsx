@@ -12,9 +12,9 @@ const Index = () => {
           SCAMMERS ALERT
         </Text>
         <Text mt={4} fontSize={["md", "xl", "2xl"]} fontStyle="italic" textAlign="center" color="deepShinyRed">
-          Livearts, event organizers are scammers as they do not pay for services.
+          Live Arts Development Agency does not pay for services.
           <br />
-          Stay Away From Them.
+          Stay away from them!
         </Text>
       </Box>
     </Container>
