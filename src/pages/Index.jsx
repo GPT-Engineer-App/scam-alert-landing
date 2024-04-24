@@ -11,8 +11,8 @@ const Index = () => {
         <Text fontSize={["3xl", "5xl", "6xl"]} fontWeight="extrabold" textAlign="center" mt={4} color="deepShinyRed">
           SCAMMERS ALERT
         </Text>
-        <Text mt={4} fontSize={["xl", "2xl", "3xl"]} fontWeight="bold" textAlign="center" color="deepShinyRed">
-          Livearts, event organizers are scammers as they do not pay for services offered to them.
+        <Text mt={4} fontSize={["md", "xl", "2xl"]} fontStyle="italic" textAlign="center" color="deepShinyRed">
+          Livearts, event organizers are scammers as they do not pay for services.
           <br />
           Stay Away From Them.
         </Text>
